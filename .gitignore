@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+iphone_backup/
+whatsapp_output/
+*.backup/
+.venv/
