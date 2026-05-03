@@ -4,6 +4,8 @@ Extract **all WhatsApp chats, media (photos, videos, voice notes, PDFs), and met
 
 Also includes tools to **list all apps** in a backup, **extract any app's data**, and **embed EXIF metadata** (dates, GPS) into extracted media files.
 
+If you found this useful, please give it a star — it helps others find the project!
+
 ## What You Get
 
 ```
